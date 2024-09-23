@@ -6,7 +6,7 @@ Un fichier README est un fichier qui contient des informations sur d'autres fich
 
 > Expliquez ce que fait votre programme et comment il fonctionne.
 
-#main.c
+# main.c
 
 Le programme crée 3 variables de type integer(nombre entier) val1 et val2 et sum.
 
